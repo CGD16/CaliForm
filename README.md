@@ -1,4 +1,4 @@
-# 🌊 Poseidon – AI-Powered Calisthenics Coach
+# 🌊 CaliForm – AI-Powered Calisthenics Coach
 
 > Real-Time Biomechanics Analysis for Calisthenics Athletes using Computer Vision and Artificial Intelligence.
 
@@ -6,11 +6,11 @@
 
 ## 📖 Overview
 
-**Poseidon** is an AI-powered mobile application designed specifically for Calisthenics and Street Workout athletes.
+**CaliForm** is an AI-powered mobile application designed specifically for Calisthenics and Street Workout athletes.
 
-Unlike traditional fitness apps that focus on gym-based exercises and simple repetition counting, Poseidon acts as a real-time digital coach capable of analyzing complex body mechanics, joint angles, and leverage positions directly through a smartphone camera.
+Unlike traditional fitness apps that focus on gym-based exercises and simple repetition counting, CaliForm acts as a real-time digital coach capable of analyzing complex body mechanics, joint angles, and leverage positions directly through a smartphone camera.
 
-Using advanced pose estimation and biomechanical analysis, Poseidon provides instant audio feedback during exercise execution, helping athletes improve technique, reduce injury risk, and accelerate skill progression.
+Using advanced pose estimation and biomechanical analysis, CaliForm provides instant audio feedback during exercise execution, helping athletes improve technique, reduce injury risk, and accelerate skill progression.
 
 ---
 
@@ -42,7 +42,7 @@ This process is inefficient, slow, and often leads to injuries caused by poor te
 
 ## 💡 Our Solution
 
-Poseidon transforms a smartphone into a personal AI Calisthenics Coach.
+CaliForm transforms a smartphone into a personal AI Calisthenics Coach.
 
 The user simply places their phone several meters away and starts training.
 
@@ -137,7 +137,7 @@ Metrics include:
 
 ## 📐 Biomechanical Analysis
 
-Poseidon evaluates the following:
+CaliForm evaluates the following:
 
 ### Joint Angles
 - Shoulder · Elbow · Wrist
@@ -226,9 +226,9 @@ Poseidon evaluates the following:
 
 ## 🌍 Vision
 
-Poseidon aims to become the world's leading AI-powered coaching platform for bodyweight athletes.
+CaliForm aims to become the world's leading AI-powered coaching platform for bodyweight athletes.
 
-By combining computer vision, biomechanics, and real-time feedback, Poseidon makes elite-level coaching affordable, scalable, and accessible to millions of athletes worldwide.
+By combining computer vision, biomechanics, and real-time feedback, CaliForm makes elite-level coaching affordable, scalable, and accessible to millions of athletes worldwide.
 
 ---
 
@@ -236,4 +236,4 @@ By combining computer vision, biomechanics, and real-time feedback, Poseidon mak
 
 > *Train Smarter. Move Better. Become Stronger.*
 >
-> **Powered by Poseidon.**
+> **Powered by CaliForm.**
